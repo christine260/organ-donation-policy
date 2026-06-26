@@ -11,7 +11,7 @@ How do state policies that compensate living organ donors affect living organ do
 
 ## Methods
 
-- Fixed Effects/Panel Data
+- Panel Data Regression with Fixed Effects
 - Difference-in-Differences
 - LASSO and Ridge
 - Trees and Random Forests
@@ -19,7 +19,7 @@ How do state policies that compensate living organ donors affect living organ do
 - Inverse Probability Weighting (IPW)
 - Doubly Robust Estimation
 - Double Machine Learning (Linear and Causal Forest)
-- Meta Learners (S-, T-, X- Learners)
+- Meta-Learners (S-, T-, X- Learners)
 - Callaway & Sant'Anna Event Study
 
 ## Data
@@ -34,7 +34,7 @@ The state-level dates for living donor compensation legislation were compiled us
 
 > Lacetera, N., Macis, M., Stith, S. S., & Tonin, M. (2014). *Removing financial barriers to organ and bone marrow donation: The effect of leave and tax legislation in the U.S.*
 
-Restricted datasets used in later extensions are **not included** in this repository.
+The complete analysis dataset is not included. Restricted datasets used in later extensions are **not included** in this repository.
 
 ## Repository Structure
 
